@@ -1,0 +1,267 @@
+
+[2020-7-9 18:9:8]Created User: root
+
+[2020-7-9 18:9:8]From:0 To:3 Type:1 Departure:0 Duration:2
+
+[2020-7-9 18:9:8]From:0 To:5 Type:2 Departure:0 Duration:5
+
+[2020-7-9 18:9:8]From:0 To:6 Type:3 Departure:0 Duration:8
+
+[2020-7-9 18:9:8]From:0 To:1 Type:3 Departure:1 Duration:4
+
+[2020-7-9 18:9:8]From:0 To:2 Type:3 Departure:2 Duration:7
+
+[2020-7-9 18:9:8]From:0 To:3 Type:3 Departure:3 Duration:5
+
+[2020-7-9 18:9:8]From:0 To:4 Type:3 Departure:4 Duration:9
+
+[2020-7-9 18:9:8]From:0 To:5 Type:3 Departure:5 Duration:5
+
+[2020-7-9 18:9:8]From:0 To:6 Type:3 Departure:6 Duration:4
+
+[2020-7-9 18:9:8]From:0 To:7 Type:3 Departure:7 Duration:9
+
+[2020-7-9 18:9:8]From:0 To:8 Type:3 Departure:8 Duration:9
+
+[2020-7-9 18:9:8]From:0 To:9 Type:3 Departure:9 Duration:7
+
+[2020-7-9 18:9:8]From:0 To:6 Type:1 Departure:10 Duration:2
+
+[2020-7-9 18:9:8]From:0 To:1 Type:3 Departure:11 Duration:3
+
+[2020-7-9 18:9:8]From:0 To:9 Type:1 Departure:12 Duration:3
+
+[2020-7-9 18:9:8]From:0 To:6 Type:3 Departure:13 Duration:6
+
+[2020-7-9 18:9:8]From:0 To:7 Type:3 Departure:14 Duration:8
+
+[2020-7-9 18:9:8]From:0 To:9 Type:3 Departure:15 Duration:7
+
+[2020-7-9 18:9:8]From:0 To:8 Type:3 Departure:16 Duration:6
+
+[2020-7-9 18:9:8]From:0 To:5 Type:3 Departure:17 Duration:5
+
+[2020-7-9 18:9:8]From:0 To:8 Type:2 Departure:18 Duration:5
+
+[2020-7-9 18:9:8]From:0 To:7 Type:3 Departure:19 Duration:8
+
+[2020-7-9 18:9:8]From:0 To:8 Type:3 Departure:20 Duration:5
+
+[2020-7-9 18:9:8]From:0 To:9 Type:3 Departure:21 Duration:8
+
+[2020-7-9 18:9:8]From:0 To:6 Type:3 Departure:22 Duration:4
+
+[2020-7-9 18:9:8]From:0 To:7 Type:3 Departure:23 Duration:3
+
+[2020-7-9 18:9:8]From:1 To:0 Type:3 Departure:0 Duration:3
+
+[2020-7-9 18:9:8]From:1 To:0 Type:3 Departure:1 Duration:8
+
+[2020-7-9 18:9:8]From:1 To:0 Type:3 Departure:2 Duration:7
+
+[2020-7-9 18:9:8]From:1 To:4 Type:1 Departure:3 Duration:4
+
+[2020-7-9 18:9:8]From:1 To:8 Type:3 Departure:4 Duration:5
+
+[2020-7-9 18:9:8]From:1 To:9 Type:3 Departure:5 Duration:4
+
+[2020-7-9 18:9:8]From:1 To:6 Type:3 Departure:6 Duration:3
+
+[2020-7-9 18:9:8]From:1 To:8 Type:3 Departure:7 Duration:9
+
+[2020-7-9 18:9:8]From:1 To:9 Type:3 Departure:8 Duration:7
+
+[2020-7-9 18:9:8]From:1 To:7 Type:3 Departure:9 Duration:8
+
+[2020-7-9 18:9:8]From:1 To:5 Type:3 Departure:10 Duration:5
+
+[2020-7-9 18:9:8]From:1 To:5 Type:3 Departure:11 Duration:7
+
+[2020-7-9 18:9:8]From:1 To:7 Type:3 Departure:12 Duration:4
+
+[2020-7-9 18:9:8]From:1 To:8 Type:3 Departure:13 Duration:8
+
+[2020-7-9 18:9:8]From:1 To:5 Type:3 Departure:14 Duration:8
+
+[2020-7-9 18:9:8]From:1 To:6 Type:1 Departure:15 Duration:2
+
+[2020-7-9 18:9:8]From:1 To:6 Type:3 Departure:16 Duration:7
+
+[2020-7-9 18:9:8]From:1 To:2 Type:3 Departure:17 Duration:4
+
+[2020-7-9 18:9:8]From:1 To:4 Type:3 Departure:18 Duration:3
+
+[2020-7-9 18:9:8]From:1 To:4 Type:3 Departure:19 Duration:8
+
+[2020-7-9 18:9:8]From:1 To:3 Type:2 Departure:20 Duration:5
+
+[2020-7-9 18:9:8]From:1 To:7 Type:3 Departure:21 Duration:5
+
+[2020-7-9 18:9:8]From:1 To:9 Type:2 Departure:22 Duration:5
+
+[2020-7-9 18:9:8]From:1 To:2 Type:3 Departure:23 Duration:7
+
+[2020-7-9 18:9:8]From:2 To:6 Type:3 Departure:0 Duration:6
+
+[2020-7-9 18:9:8]From:2 To:5 Type:3 Departure:1 Duration:7
+
+[2020-7-9 18:9:8]From:2 To:4 Type:3 Departure:2 Duration:8
+
+[2020-7-9 18:9:8]From:2 To:9 Type:3 Departure:3 Duration:7
+
+[2020-7-9 18:9:8]From:2 To:9 Type:3 Departure:4 Duration:8
+
+[2020-7-9 18:9:8]From:2 To:8 Type:3 Departure:5 Duration:4
+
+[2020-7-9 18:9:8]From:2 To:7 Type:3 Departure:6 Duration:5
+
+[2020-7-9 18:9:8]From:2 To:6 Type:3 Departure:7 Duration:6
+
+[2020-7-9 18:9:8]From:2 To:1 Type:1 Departure:8 Duration:1
+
+[2020-7-9 18:9:8]From:2 To:5 Type:3 Departure:9 Duration:8
+
+[2020-7-9 18:9:8]From:2 To:0 Type:1 Departure:10 Duration:2
+
+[2020-7-9 18:9:8]From:2 To:5 Type:3 Departure:11 Duration:5
+
+[2020-7-9 18:9:8]From:2 To:3 Type:3 Departure:12 Duration:4
+
+[2020-7-9 18:9:8]From:2 To:3 Type:3 Departure:13 Duration:7
+
+[2020-7-9 18:9:8]From:2 To:4 Type:3 Departure:14 Duration:5
+
+[2020-7-9 18:9:8]From:2 To:9 Type:3 Departure:15 Duration:7
+
+[2020-7-9 18:9:8]From:2 To:7 Type:2 Departure:16 Duration:3
+
+[2020-7-9 18:9:8]From:2 To:8 Type:3 Departure:17 Duration:7
+
+[2020-7-9 18:9:8]From:2 To:6 Type:3 Departure:18 Duration:3
+
+[2020-7-9 18:9:8]From:2 To:7 Type:3 Departure:19 Duration:8
+
+[2020-7-9 18:9:8]From:2 To:8 Type:3 Departure:20 Duration:7
+
+[2020-7-9 18:9:8]From:2 To:9 Type:3 Departure:21 Duration:6
+
+[2020-7-9 18:9:8]From:2 To:6 Type:3 Departure:22 Duration:5
+
+[2020-7-9 18:9:8]From:2 To:1 Type:3 Departure:23 Duration:8
+
+[2020-7-9 18:9:8]From:3 To:5 Type:2 Departure:1 Duration:4
+
+[2020-7-9 18:9:8]From:3 To:5 Type:1 Departure:8 Duration:5
+
+[2020-7-9 18:9:8]From:3 To:6 Type:2 Departure:13 Duration:4
+
+[2020-7-9 18:9:8]From:3 To:4 Type:2 Departure:19 Duration:7
+
+[2020-7-9 18:9:8]From:3 To:8 Type:2 Departure:22 Duration:4
+
+[2020-7-9 18:9:8]From:4 To:5 Type:2 Departure:2 Duration:8
+
+[2020-7-9 18:9:8]From:4 To:3 Type:2 Departure:4 Duration:6
+
+[2020-7-9 18:9:8]From:4 To:9 Type:2 Departure:11 Duration:4
+
+[2020-7-9 18:9:8]From:4 To:6 Type:2 Departure:23 Duration:6
+
+[2020-7-9 18:9:8]From:5 To:8 Type:2 Departure:20 Duration:5
+
+[2020-7-9 18:9:8]From:6 To:1 Type:1 Departure:1 Duration:1
+
+[2020-7-9 18:9:8]From:6 To:7 Type:1 Departure:9 Duration:2
+
+[2020-7-9 18:9:8]From:6 To:7 Type:2 Departure:13 Duration:7
+
+[2020-7-9 18:9:8]From:6 To:8 Type:2 Departure:17 Duration:4
+
+[2020-7-9 18:9:8]From:7 To:9 Type:2 Departure:3 Duration:2
+
+[2020-7-9 18:9:8]From:7 To:6 Type:2 Departure:11 Duration:4
+
+[2020-7-9 18:9:8]From:8 To:4 Type:2 Departure:5 Duration:3
+
+[2020-7-9 18:9:8]From:8 To:2 Type:2 Departure:7 Duration:7
+
+[2020-7-9 18:9:8]From:8 To:7 Type:2 Departure:12 Duration:3
+
+[2020-7-9 18:9:8]From:8 To:1 Type:1 Departure:14 Duration:4
+
+[2020-7-9 18:9:8]From:8 To:2 Type:2 Departure:20 Duration:6
+
+[2020-7-9 18:9:8]From:9 To:2 Type:2 Departure:3 Duration:2
+
+[2020-7-9 18:9:8]From:9 To:6 Type:2 Departure:11 Duration:4
+
+[2020-7-9 18:9:8]root:# 
+[2020-7-9 18:9:15]When would you like to start your trip? (-1 = default, 0 = now, 1 = 1 hour later...)
+
+[2020-7-9 18:9:16]sorting...
+
+[2020-7-9 18:9:16]What's your time limit ? (unit:hour, 0 == No Limit)
+
+[2020-7-9 18:9:18]
+Path1: Risk:20.7 Time:26 hrs
+
+[2020-7-9 18:9:18] 0:00- 3:00: Wait for 3 hours;
+
+[2020-7-9 18:9:18] 3:00- 5:00: Take a 
+[2020-7-9 18:9:18]train 
+[2020-7-9 18:9:18]from WUHAN to LASA;
+
+[2020-7-9 18:9:18] 5:00-11:00: Wait for 6 hours;
+
+[2020-7-9 18:9:18]11:00-15:00: Take a 
+[2020-7-9 18:9:18]train 
+[2020-7-9 18:9:18]from LASA to XIAMEN;
+
+[2020-7-9 18:9:18]15:00- 1:00: Wait for 10 hours;
+
+[2020-7-9 18:9:18] 1:00- 2:00: Take a 
+[2020-7-9 18:9:18]flight 
+[2020-7-9 18:9:18]from XIAMEN to BEIJING;
+
+[2020-7-9 18:9:18]
+
+[2020-7-9 18:9:18]time is: 12:00
+[2020-7-9 18:9:18]                              
+[2020-7-9 18:9:18]time is: 12:00 
+[2020-7-9 18:9:21]time is: 13:00 
+[2020-7-9 18:9:23]               
+[2020-7-9 18:9:23]root:# 
+[2020-7-9 18:9:37]When would you like to start your trip? (-1 = default, 0 = now, 1 = 1 hour later...)
+
+[2020-7-9 18:9:38]sorting...
+
+[2020-7-9 18:9:38]What's your time limit ? (unit:hour, 0 == No Limit)
+
+[2020-7-9 18:9:42]
+Path1: Risk:25.6 Time:40 hrs
+
+[2020-7-9 18:9:42] 0:00- 3:00: Wait for 3 hours;
+
+[2020-7-9 18:9:42] 3:00- 5:00: Take a 
+[2020-7-9 18:9:42]train 
+[2020-7-9 18:9:42]from WUHAN to LASA;
+
+[2020-7-9 18:9:42] 5:00- 3:00: Wait for 22 hours;
+
+[2020-7-9 18:9:42] 3:00- 5:00: Take a 
+[2020-7-9 18:9:42]train 
+[2020-7-9 18:9:42]from LASA to SHANGHAI;
+
+[2020-7-9 18:9:42] 5:00-12:00: Wait for 7 hours;
+
+[2020-7-9 18:9:42]12:00-16:00: Take a 
+[2020-7-9 18:9:42]bus 
+[2020-7-9 18:9:42]from SHANGHAI to GUANGZHOU;
+
+[2020-7-9 18:9:42]
+
+[2020-7-9 18:9:42]time is: 13:00
+[2020-7-9 18:9:45]time is: 14:00 
+[2020-7-9 18:9:48]time is: 15:00 
+[2020-7-9 18:9:51]time is: 16:00 
+[2020-7-9 18:9:54]time is: 17:00 

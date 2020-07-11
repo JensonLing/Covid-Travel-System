@@ -1,0 +1,11 @@
+
+COVID Travel System (V3.0 Beta) -- By Ling Jie
+
+Commands:
+    help                                     Get help information
+    getpath [CityID] [CityID]                Start a journey and calculate the best path possible
+    su [Username]                            Switch to another user
+    query [Username]                         Query current traveling state of a user
+    time                                     Get system time
+    continue                                 Quit command line and system time continues to push forward
+    cls                                      Clear screen
